@@ -57,5 +57,6 @@ add the keywords you want in the selected_keywords.txt file so that the bot only
 ```txt
 "how to deploy smartcontract?"
 "listen to activity on the blockchain"
-```#   R e d d i t b o t  
+```
+ 
  
