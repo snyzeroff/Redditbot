@@ -1,0 +1,2 @@
+"how to deploy smartcontract?"
+"listen to activity on the blockchain"
