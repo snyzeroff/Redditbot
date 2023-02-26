@@ -33,6 +33,8 @@
 Set the subreddit to search (default = "r/web3"):
 ```python
 r.subreddit('web3')
+
+<img src="https://your-image-url.type" width="100" height="100">
 ```
 Set the response of GPT–3 + set invitation to go to the *Starton* (in hypertext) website and adds 2 other decoys
 ``` python
