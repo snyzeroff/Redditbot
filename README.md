@@ -34,17 +34,17 @@ pip install -r requirements.txt
 8. Note the outputted *client id* and *secret*
 
 #### main.py
-Set the subreddit to search (default = "r/web3"):
+- Set the subreddit to search (default = "r/web3"):
 ```python
 r.subreddit('web3')
 ```
-Set the response of GPT–3 + set invitation to go to the *Starton* (in hypertext) website and adds 2 other decoys
+- Set the response of GPT–3 + set invitation to go to the *Starton* (in hypertext) website and adds 2 other decoys
 ``` python
 reply_text = response.choices[0].text.format("[starton.io](https://starton.io/)")
 reply_text += " Je t'invite à essayer un des templates de [Starton]({}).".format("[starton.io](https://starton.io/)")
 comment.reply(reply_text)
 ```
-Prints that he has found a message to which he has replied
+- Prints that he has found a message to which he has replied
 and waits 10 seconds
 ``` python
 print("Réponse envoyée pour le commentaire {}.".format(comment.id))
@@ -58,7 +58,7 @@ time.sleep(10)
 5. **OPENAI_API_KEY:** your OpenAI API key
 
 #### Selected_keywords.txt :
-add the keywords you want in the selected_keywords.txt file so that the bot only responds to comments containing these keywords (*default keywords* : "how to deploy smartcontract?"
+- add the keywords you want in the selected_keywords.txt file so that the bot only responds to comments containing these keywords (*default keywords* : "how to deploy smartcontract?"
 ; "listen to activity on the blockchain")
 ```txt
 "how to deploy smartcontract?"
