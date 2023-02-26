@@ -12,8 +12,8 @@
 ## 🚀・Setup
 ```sh-session
 > Add your information in the .env file
-> Set the subreddit in which you want to define the search
-> Add your keywords in the file seleted_keywords.txt
+> Pick a subreddit to scan
+> Set your bot's reply with keywords
 > run main.py
 ```
 
