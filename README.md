@@ -19,7 +19,7 @@
 ```
 
 
-### Reddit App :
+#### Reddit App :
 1. [Navigate to the Apps page ](https://www.reddit.com/dev/api)
 2. Click *create an app*
 3. **name:** Set a name for your app
