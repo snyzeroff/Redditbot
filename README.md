@@ -95,12 +95,7 @@ The script waits for 10 seconds between each loop iteration to prevent the bot f
 Make sure to abide by the Reddit API guidelines and not to spam or harass users with the bot.
 # Hi, I'm Paul-Emile Heim! 👋
 
-<img src="https://i.imgur.com/OL5xQWZ.png" width="100" height="100">
-
-
- [@snyzer](https://github.com/snyzeroff)
-
-
+<img src="https://i.imgur.com/OL5xQWZ.png" width="200" height="200">
 
 ## 🔗 Links
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snyzeroff)
@@ -110,6 +105,4 @@ Make sure to abide by the Reddit API guidelines and not to spam or harass users 
 
 -----
 ![Logo](https://i.imgur.com/c4O6h1Q.png)
-## 🚀 About Me
-I'm a full stack developer...
 
