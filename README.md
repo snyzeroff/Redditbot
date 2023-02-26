@@ -2,7 +2,7 @@
 #### *it's an automated Reddit comment bot that draws its answers from the GPT-3 API*
   - Pick a subreddit to scan
   - Set your bot's reply with keywords
-  - Set the response of GPT–3 and define the invitation to go to *Starton*.
+ - Set the response of GPT–3 and define the invitation to go to *Starton*.
 
 
 ## 📋・Requirements
@@ -64,19 +64,18 @@ add the keywords you want in the selected_keywords.txt file so that the bot only
 "how to deploy smartcontract?"
 "listen to activity on the blockchain"
 ```
-## Documentation
+## 📝・Description 
 
 - [Praw](https://praw.readthedocs.io/en/latest/getting_started/installation.html)
 - [A Reddit API Documentation](https://www.reddit.com/dev/api)
 
-The script is designed to automate the process of responding to Reddit comments that match specific keywords, using the OpenAI API to generate a response that is published as a reply to the original comment. The script also takes steps to avoid duplicate responses and API request saturation.
+The script is designed to automate the process of replying to Reddit comments for which there are specific keywords on the topic of Web 3.0, using the OpenAI API to generate a reply that is published as a response to the original comment. The script also takes steps to avoid duplicate responses and API request saturation.
 
 The script stores the IDs of comments it has already responded to in a list called "comments_replied_to". This is done to avoid replying to the same comment multiple times.
 
 The comment identifiers are also written to a text file called "comments_replied_to.txt" to save the list between runs of the script.
 
 Finally, the script waits 10 seconds between each iteration of the loop to avoid overloading the Reddit API with requests.
-
 
 -----
 In your command prompt or terminal, navigate to the project directory.
@@ -97,7 +96,10 @@ Make sure to abide by the Reddit API guidelines and not to spam or harass users 
 
 <img src="https://i.imgur.com/OL5xQWZ.png" width="200" height="200">
 
-## 🔗 Links
+
+
+
+## 🔗・Links
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snyzeroff)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-ehm-3bb478266/)
 [![discord](https://img.shields.io/badge/Discord-4169E1?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/691571567863398430)
