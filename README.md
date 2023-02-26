@@ -2,7 +2,7 @@
 #### *it's an automated Reddit comment bot that draws its answers from the GPT-3 API*
   - Pick a subreddit to scan
   - Set your bot's reply with keywords
- - Set the response of GPT–3 and define the invitation to go to *Starton*.
+  - Set the response of GPT–3 and define the invitation to go to *Starton*.
 
 
 ## 📋・Requirements
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 > Add your information in the .env file
 > Pick a subreddit to scan
 > Set your bot's reply with keywords in the file seleted_keywords.txt
-> Set the response of GPT–3 and define invitation to go to the *Starton* (in hypertext) website and adds 1 or 2 other decoys
+> Define the response of GPT–3 and set the invitation to go to *Starton*.
 > run main.py
 ```
 
