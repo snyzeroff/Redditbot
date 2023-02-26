@@ -20,7 +20,7 @@ with open('keywords/selected_keywords.txt', 'r') as f:
 
 for comment in subreddit.stream.comments(skip_existing=True):
     if any(keyword in comment.body for keyword in selected_keywords):
-        print("Comment trouvé avec les mots clés suivants : {}".format(selected_keywords))
+        print("Commentaire trouvé avec les mots-clés suivants : {}".format(selected_keywords))
         response = openai.Completion.create(engine="text-davinci-002",
                                             prompt=comment.body,
                                             max_tokens=150)
