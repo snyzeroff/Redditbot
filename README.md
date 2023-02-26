@@ -93,7 +93,7 @@ The script waits for 10 seconds between each loop iteration to prevent the bot f
 
 Make sure to abide by the Reddit API guidelines and not to spam or harass users with the bot.
 
-#### *Fabien (or the Starton team) if you have any questions do not hesitate to contact me*
+#### *Fabien,Jerome (or the Starton team) if you have any questions do not hesitate to contact me*
 # Hi, I'm Paul-Emile Heim! 👋
 
 [<img src="https://i.imgur.com/OL5xQWZ.png" width="200" height="200">](https://discord.com/users/1074612809326936094)
