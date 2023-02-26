@@ -104,5 +104,4 @@ Make sure to abide by the Reddit API guidelines and not to spam or harass users 
 
 
 -----
-![Logo](https://i.imgur.com/c4O6h1Q.png)
-
+[![starton](https://i.imgur.com/c4O6h1Q.png)](https://www.starton.io/)
