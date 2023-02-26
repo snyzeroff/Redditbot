@@ -77,7 +77,6 @@ The comment identifiers are also written to a text file called "comments_replied
 
 Finally, the script waits 10 seconds between each iteration of the loop to avoid overloading the Reddit API with requests.
 
------
 In your command prompt or terminal, navigate to the project directory.
 
 Run the bot.py script by typing python bot.py.
@@ -85,7 +84,7 @@ Run the bot.py script by typing python bot.py.
 The script will continuously check for new comments in the specified subreddit, and if a comment containing any of the selected keywords is found, the bot will generate a response using the OpenAI API and post it as a reply to the comment.
 
 To stop the script, press CTRL + C in your command prompt or terminal.
-
+-----
 ### Notes
 To avoid replying to the same comment multiple times, the script stores the IDs of the comments it has already replied to in a text file called comments_replied_to.txt in the data directory. If you want to reset the list, simply delete the file.
 
