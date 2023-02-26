@@ -1,4 +1,4 @@
-# Bot Reddit
+# Automated Reddit Comment Bot 
 #### *it's an automated Reddit comment bot that draws its answers from the GPT-3 API*
   - Pick a subreddit to scan
   - Set your bot's reply with keywords
