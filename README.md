@@ -11,8 +11,9 @@
   - [A Reddit Account](https://www.reddit.com/register/)
 ## 🚀・Setup
 ```sh-session
-> add your information in the .env file
+> Add your information in the .env file
 > Set the subreddit to search 
+> Enter your keywords in the file seleted_keywords.txt
 > run main.py
 ```
 
@@ -52,7 +53,7 @@ time.sleep(10)
 5. **OPENAI_API_KEY:** your OpenAI API key
 
 #### Selected_keywords.txt :
-add the keywords you want in the selected_keywords.txt file so that the bot only responds to comments containing these keywords(*default keywords* : "how to deploy smartcontract?"
+add the keywords you want in the selected_keywords.txt file so that the bot only responds to comments containing these keywords (*default keywords* : "how to deploy smartcontract?"
 ; "listen to activity on the blockchain")
 ```txt
 "how to deploy smartcontract?"
