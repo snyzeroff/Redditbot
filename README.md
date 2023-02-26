@@ -86,6 +86,7 @@ The script will continuously check for new comments in the specified subreddit, 
 To stop the script, press CTRL + C in your command prompt or terminal.
 
 ### Notes
+-----
 To avoid replying to the same comment multiple times, the script stores the IDs of the comments it has already replied to in a text file called comments_replied_to.txt in the data directory. If you want to reset the list, simply delete the file.
 
 The script waits for 10 seconds between each loop iteration to prevent the bot from overwhelming the Reddit API with requests.
