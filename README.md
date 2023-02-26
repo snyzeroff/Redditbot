@@ -9,11 +9,13 @@
   - [Python](https://www.python.org/downloads/)
   - [Praw](https://praw.readthedocs.io/en/latest/getting_started/installation.html)
   - [A Reddit Account](https://www.reddit.com/register/)
+
 ## 🚀・Setup
 ```sh-session
 > Add your information in the .env file
 > Pick a subreddit to scan
-> Set your bot's reply with keywords
+> Set your bot's reply with keywords in the file seleted_keywords.txt
+> Set the response of GPT–3 and define invitation to go to the Starton (in hypertext) website and adds 1 or 2 other decoys
 > run main.py
 ```
 
@@ -33,7 +35,7 @@ Set the subreddit to search (default = "r/web3"):
 ```python
 r.subreddit('web3')
 ```
-Set the response of GPT – 3 + set invitation to go to the ***Starton*** (in hypertext) website and adds 2 other decoys
+Set the response of GPT–3 + set invitation  to go to the *Starton* (in hypertext) website and adds 2 other decoys
 ``` python
 reply_text = response.choices[0].text.format("[starton.io](https://starton.io/)")
 reply_text += " Je t'invite à essayer un des templates de [Starton]({}).".format("[starton.io](https://starton.io/)")
