@@ -12,7 +12,7 @@
 ## 🚀・Setup
 Clone the repository to your local machine:
 ```sh-session
-pip install -r requirements.txt
+git clone https://github.com/snyzeroff/Redditbot.git
 ```
 ```sh-session
 > Add your information in the .env file
