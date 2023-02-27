@@ -1,10 +1,9 @@
-# Reddit Comment Bot 
+# Reddit Comment Bot 🤖
 #### *it's an automated Reddit comment bot that draws its answers from the GPT-3 API*
   - Pick a subreddit to scan
   - Set your bot's reply with keywords
- - Set the response of GPT–3 and define the invitation to go to *Starton*.
-
-
+  - Set the response of GPT–3 and define the invitation to go to *Starton*.
+ 
 ## 📋・Requirements
   - [Python](https://www.python.org/downloads/)
   - [Praw](https://praw.readthedocs.io/en/latest/getting_started/installation.html)
@@ -95,13 +94,9 @@ Make sure to abide by the Reddit API guidelines and not to spam or harass users 
 
 #### *Fabien, Jérome (or the Starton team) if you have any questions do not hesitate to contact me*
 # Author
-## [Hi, I'm Paul-Emile Heim! 👋](https://github.com/snyzeroff)
+# [Hi, I'm Paul-Emile Heim! 👋](https://github.com/snyzeroff)
 
 [<img src="https://i.imgur.com/OL5xQWZ.png" width="317" height="317">](https://discord.com/users/1074612809326936094)
-
-
-
-
 ## 🔗・Links
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snyzeroff)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-ehm-3bb478266/)
