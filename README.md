@@ -97,7 +97,7 @@ Make sure to abide by the Reddit API guidelines and not to spam or harass users 
 # Author
 ## [Hi, I'm Paul-Emile Heim! 👋](https://github.com/snyzeroff)
 
-[<img src="https://i.imgur.com/OL5xQWZ.png" width="200" height="200">](https://discord.com/users/1074612809326936094)
+[<img src="https://i.imgur.com/OL5xQWZ.png" width="317" height="317">](https://discord.com/users/1074612809326936094)
 
 
 
