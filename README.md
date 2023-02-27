@@ -90,9 +90,26 @@ To avoid replying to the same comment multiple times, the script stores the IDs 
 
 The script waits for 10 seconds between each loop iteration to prevent the bot from overwhelming the Reddit API with requests.
 
-Make sure to abide by the Reddit API guidelines and not to spam or harass users with the bot.
-
 #### *Fabien, Jérome (or the Starton team) if you have any questions do not hesitate to contact me*
+
+## 💭・ChangeLog
+
+```diff
+v0.0.3 ⋮ 27-02-2023
++ Updated the Readme 
++ Added the ChangLog
+
+v0.0.2 ⋮ 26-02-2023
++ Updated the Readme
++ Updated the Main.py file
++ Added the comments_replied_to.txt file
++ Cleaner code
+
+v0.0.1 ⋮ 25-02-2023
++ Added Main Script
++ Cleaned up Code
+```
+
 # Author
 # [Hi, I'm Paul-Emile Heim! 👋](https://github.com/snyzeroff)
 
