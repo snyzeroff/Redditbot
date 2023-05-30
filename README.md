@@ -95,6 +95,9 @@ The script waits for 10 seconds between each loop iteration to prevent the bot f
 ## 💭・ChangeLog
 
 ```diff
+v0.0.4 ⋮ 03-03-2023
++ Rename .env to .env.example
+
 v0.0.3 ⋮ 27-02-2023
 + Updated the Readme 
 + Added the ChangLog
